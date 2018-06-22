@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ourdirectlisting",
-    "currentPage": "page1.html",
+    "currentPage": "gram4230.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 114,
     "versionPublish": "4.7.8",
@@ -975,9 +975,9 @@
         }
       ]
     },
-    "page1.html": {
+    "gram4230.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "studio",
         "title": "gram4230",
         "order": 1
       },
