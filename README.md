@@ -1,2 +1,0 @@
-# ourdirectlist
-GitHub Pages
