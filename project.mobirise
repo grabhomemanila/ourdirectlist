@@ -3032,7 +3032,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "VIEW",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -3045,7 +3045,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
