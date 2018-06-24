@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "ourdirectlisting",
-    "currentPage": "gram6016.html",
+    "currentPage": "gram6008.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 151,
+    "uniqCompNum": 156,
     "versionPublish": "4.7.8",
     "theme": {
       "name": "mobirise4",
@@ -2517,15 +2517,15 @@
             }
           },
           "_name": "info2",
-          "_customHTML": "<section class=\"mbr-section info2\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Text on Right/Left\" name=\"reverseContent\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#25aab2\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#dbd4b8\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#25aab2\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row main justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-3 col-md-4\">\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">\n                    <span class=\"mbri-preview mbr-iconfont\"></span>\n                    SEE MORE\n                    </a>\n                </div>\n            </div>\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"align-right mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><span style=\"font-weight: normal;\">GRAMERCY RESIDENCES&nbsp;</span><br>UNIT 4727 STUDIO</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\"><b><br></b><br></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section info2\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Text on Right/Left\" name=\"reverseContent\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#25aab2\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#dbd4b8\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#25aab2\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row main justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-3 col-md-4\">\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">\n                    <span class=\"mbri-preview mbr-iconfont\"></span>\n                    SEE MORE\n                    </a>\n                </div>\n            </div>\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"align-right mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><span style=\"font-weight: normal;\">GRAMERCY RESIDENCES&nbsp;</span><br>UNIT 6008, 1 BEDROOM</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\"><b><br></b><br></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "info2-47",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "qVOmVu14RP",
+          "_cid": "qVOteMdoBN",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "info2-40"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2598,7 +2598,10 @@
           },
           "_name": "gallery1",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cccccc\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
-          "_cid": "qVOmVwU971",
+          "_anchor": "gallery1-48",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qVOtfRoDO6",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -2617,8 +2620,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/living-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/living-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/living-area-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/living-area-1200x750-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2626,12 +2629,12 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bed-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bed-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bed-area-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bed-area-1200x750-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2639,16 +2642,29 @@
                 "active": false
               },
               {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dining-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dining-1200x750-800x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "DINING AREA",
+                "active": false
+              },
+              {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/kitchen-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kitchen-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kitchen-2-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kitchen-2-1200x750-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "KITCHEN",
+                "caption": "KITCHEN AREA",
                 "active": false
               },
               {
@@ -2656,12 +2672,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bathroom-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bathroom-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bathroom-1-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bathroom-1-1200x750-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BATHROOM AREA",
+                "caption": "BATHROOM",
                 "active": false
               },
               {
@@ -2669,17 +2685,42 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/veranda-view-1200x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/veranda-view-1200x750-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/veranda-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veranda-1200x750-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "VERANDA VIEW",
+                "caption": "VERANDA",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/view-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/view-1200x750-800x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "VIEW",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/blank-1200x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blank-1200x750-800x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
-          },
-          "_anchor": "gallery1-41"
+          }
         },
         {
           "_styles": {
@@ -2693,15 +2734,15 @@
             }
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-864x1080.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><span style=\"font-weight: normal;\">360 view</span></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-864x1080.jpg\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\" selected=\"\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">360 view</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article=\"\" data-multiline=\"\">\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content5-4a",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "qVOmVzxLYR",
+          "_cid": "qVOBpSTXhB",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-42"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2746,18 +2787,21 @@
                 "width": "auto",
                 "max-width": "600px"
               }
+            },
+            "H4": {
+              "color": "#149dcc"
             }
           },
           "_name": "features13",
-          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#e4d295\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n            Images with text on them\n        </h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipPqg3qM1XtQRSPMk5Efzp_h_VOqS9AUhmqK-3R8izQEVYYUhELCQ5hNWZbNaMBLbw/photo/AF1QipPdyQoV9Hf_DabNBMA-GKigZllZuhYvqvio32M0?key=OVVYeWdUdGNLb00xU01HTjJfN2RrRzhsZ3dtaGxB\"><img src=\"@PROJECT_PATH@/assets/images/800-x-292-800x292.jpg\" alt=\"studio\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"https://photos.google.com/share/AF1QipPqg3qM1XtQRSPMk5Efzp_h_VOqS9AUhmqK-3R8izQEVYYUhELCQ5hNWZbNaMBLbw/photo/AF1QipPdyQoV9Hf_DabNBMA-GKigZllZuhYvqvio32M0?key=OVVYeWdUdGNLb00xU01HTjJfN2RrRzhsZ3dtaGxB\" class=\"text-black\">Studio&nbsp;area</a><br></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\"><br><a href=\"https://photos.google.com/share/AF1QipPqg3qM1XtQRSPMk5Efzp_h_VOqS9AUhmqK-3R8izQEVYYUhELCQ5hNWZbNaMBLbw/photo/AF1QipPdyQoV9Hf_DabNBMA-GKigZllZuhYvqvio32M0?key=OVVYeWdUdGNLb00xU01HTjJfN2RrRzhsZ3dtaGxB\">Click here to view the whole area</a><br><br><br><br><br><br></p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipNEOHoCL6Act6iGkfwSbcQbpSs59y2TMF29McmW?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\"><img src=\"@PROJECT_PATH@/assets/images/main%20bedroom%201000-1000x500.jpg\" alt=\"main bed\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipNEOHoCL6Act6iGkfwSbcQbpSs59y2TMF29McmW?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\" class=\"text-primary\">MainBedroom</a></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipPi-fZX7EDxFewTSquxhHJzrf2wr005QgGXMMv8?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\"><img src=\"@PROJECT_PATH@/assets/images/2nd%20bedroom%201000-1000x500.jpg\" alt=\"2nd bed\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><p>\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipPi-fZX7EDxFewTSquxhHJzrf2wr005QgGXMMv8?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\">2ndBedroom</a></p></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#e4d295\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n            Images with text on them\n        </h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipPSWdQFk8Qs_HLcIpwEV9RIexfyGPzs6B_qfY3gO4p1EvKTFA-N9_JGjtbVAkL0xA/photo/AF1QipMBGyfb2kkdfUCWCVwhs5pkc17n2c7nsDXmI-OT?key=eG1HNWlmRVVsN2VRMnlobi1qcWpubDY2Vml5aFVR\"><img src=\"@PROJECT_PATH@/assets/images/360-view-800-x-292-800x292.jpg\" alt=\"6008\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"https://photos.google.com/share/AF1QipPSWdQFk8Qs_HLcIpwEV9RIexfyGPzs6B_qfY3gO4p1EvKTFA-N9_JGjtbVAkL0xA/photo/AF1QipMBGyfb2kkdfUCWCVwhs5pkc17n2c7nsDXmI-OT?key=eG1HNWlmRVVsN2VRMnlobi1qcWpubDY2Vml5aFVR\">UNIT AREA</a><br></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\"><br><br><br><br><br><br><br></p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipNEOHoCL6Act6iGkfwSbcQbpSs59y2TMF29McmW?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\"><img src=\"@PROJECT_PATH@/assets/images/main%20bedroom%201000-1000x500.jpg\" alt=\"main bed\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipNEOHoCL6Act6iGkfwSbcQbpSs59y2TMF29McmW?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\" class=\"text-primary\">MainBedroom</a></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipPi-fZX7EDxFewTSquxhHJzrf2wr005QgGXMMv8?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\"><img src=\"@PROJECT_PATH@/assets/images/2nd%20bedroom%201000-1000x500.jpg\" alt=\"2nd bed\" title></a>\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><p>\n                    <a href=\"https://photos.google.com/share/AF1QipN1S3ZXcTDyzaKz2vDXZxGUyq7e6l9QAC5pxyUtL6iT_B6nLgQoeia-IeaSJI0NmA/photo/AF1QipPi-fZX7EDxFewTSquxhHJzrf2wr005QgGXMMv8?key=SDczR0NYbGxGV3dzR1htRVNPWmVhYWtweFRPYnBB\">2ndBedroom</a></p></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_anchor": "features13-4b",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "qVOmVBRIof",
+          "_cid": "qVOBs0SpmE",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features13-43"
+          "_params": {}
         }
       ]
     }
